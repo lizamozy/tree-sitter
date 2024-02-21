@@ -1,0 +1,9 @@
+(translation_unit [0, 0] - [0, 18]
+  (declaration [0, 0] - [0, 18]
+    type: (primitive_type [0, 0] - [0, 3])
+    declarator: (function_declarator [0, 4] - [0, 17]
+      declarator: (identifier [0, 4] - [0, 7])
+      parameters: (parameter_list [0, 7] - [0, 17]
+        (parameter_declaration [0, 8] - [0, 16]
+          type: (primitive_type [0, 8] - [0, 11])
+          declarator: (identifier [0, 12] - [0, 16]))))))
